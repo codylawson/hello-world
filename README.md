@@ -1,4 +1,3 @@
-hello-world
-===========
+# Hello World
 
-repo for training
+This repository is for learning and practicing Git and GitHub.
